@@ -1,5 +1,5 @@
 # T-MASS-dataleakage
-**(Here is the archive of the issue we raised, in both English and Chinese)**
+**(Here is the archive of the [issue](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval/issues/7#issuecomment-2469147120) we raised, in both English and Chinese)**
 
 Hello, Wang,
 
