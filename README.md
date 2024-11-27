@@ -1,4 +1,6 @@
 # T-MASS-dataleakage
+**(Here is the archive of the issue we raised, in both English and Chinese)**
+
 Hello, Wang,
 
 I’ve been closely following your work on CVPR 2024, `T-MASS`, and after reading your paper at the end of September, I found the approach very interesting and novel. I decided to replicate the paper and test the code, and attempted to improve it. I spent over a month making dozens of modifications. However, a few days ago, while modifying your test code, I found that it was very complex, with dimensions constantly switching back and forth. I decided to improve several functions in your test code. This led to us discovering a serious data leakage issue in your testing section, as well as numerous other inconsistencies.
