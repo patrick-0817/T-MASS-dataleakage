@@ -31,6 +31,7 @@ In conclusion, we believe that your paper’s code suffers from data leakage, wh
 Therefore, we hope you will retract the paper, as its existence not only wasted over a month of our research time but will also waste more time and effort for others, hindering progress in this area.
 
 We look forward to your response.
+
 ---
 
 你好，Wang同学，我最近正关注你的CVPR2024工作 `T-MASS` ，从今年9月末读了你的文章发现这篇文章思路很有趣、很新颖，于是把这篇文章复现并且对于代码效果进行复现并且尝试进行改进，前前后后修改了数十个版本，花费了一个多月时间。可是，前几天我在修改你的测试代码的时候，由于你的测试代码写的十分繁琐，各个维度之间前后颠来倒去，我决定对于你的测试代码的几个函数进行改进。由此，我们发现了你的测试部分存在严重的数据泄露问题、也发现了诸多不合理之处。
